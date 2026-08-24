@@ -24,3 +24,15 @@ Every commit is a step toward a European MS in Cybersecurity.
 - [ ] 8.5+ GPA in Semester 5
 
 Last updated: 2026-08-21
+
+## August 24, 2026
+- PortSwigger: SQL Injection Lab #1 (WHERE clause, ' OR '1'='1)
+- Bandit: 12 → 14
+- Learned:
+  - xxd -r reverses hexdump to binary
+  - file command identifies compression types
+  - Nested compression: tar → tar → bzip2 → tar → gzip
+  - SSH private keys (-i flag) for authentication
+  - scp for downloading files from remote servers
+  - chmod 600 for key file permissions
+- Note: Level 12→13 was long but learned a lot. Level 13→14 key transfer was tricky.
