@@ -15,3 +15,13 @@ Learned:  - Find with -user, -group, -size
 - Bandit: 10 → 12
 - Learned: base64 decoding, rot13 (tr command), manual SQL injection in URL parameters
 - Note: Lab 1 was straightforward. Rot13 was confusing at first but got it.
+
+## August 26, 2026
+- Bandit: 14 → 15
+- PortSwigger: SQL Injection Lab #2 (login bypass with administrator'--)
+- Learned:
+  - nc (netcat) for talking to services on specific ports
+  - Pipes (|) for sending output as input
+  - SQL injection in login forms: ' OR '1'='1 and administrator'-- for bypass
+  - Commenting out SQL with -- to skip password checks
+- Note: Took a rest day on Aug 25. Came back and finished both targets.
